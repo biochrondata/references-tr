@@ -83,4 +83,4 @@
 | https://www.biochron.net/en/iyot-eksikligi-ve-tedavisi-post18 | İyot Eksikliğinin 9 Kanıtlanmış Belirtisi \(ve Nasıl Düzeltilir\) |
 | https://www.biochron.net/en/hipotiroidi-belirtiler-ve-tedavisi-post14 | 11 Bilimsel Adımda Hipotiroidi: Belirtiler ve Tedavisi \(TSH & Beslenme\) |
 
-## [Kaynak BioChrone](https://www.biochron.net/tr/)
+## [Kaynak BioChron](https://www.biochron.net/tr/)
